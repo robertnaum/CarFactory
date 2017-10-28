@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F3F284EF-94C5-4BB3-BA28-A56034CF8B5D}</ProjectGuid>
+    <ProjectGuid>{BF554A64-C7C6-4866-84EE-DF06677C6E81}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Factories</RootNamespace>
-    <AssemblyName>Factories</AssemblyName>
+    <RootNamespace>QueryParser</RootNamespace>
+    <AssemblyName>QueryParser</AssemblyName>
     <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

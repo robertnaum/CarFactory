@@ -1,9 +1,0 @@
-C:\Users\Robert.KRS\Source\repos\CarFactory\Factories\bin\Debug\Factories.exe.config
-C:\Users\Robert.KRS\Source\repos\CarFactory\Factories\bin\Debug\Factories.exe
-C:\Users\Robert.KRS\Source\repos\CarFactory\Factories\bin\Debug\Factories.pdb
-C:\Users\Robert.KRS\Source\repos\CarFactory\Factories\bin\Debug\Common.dll
-C:\Users\Robert.KRS\Source\repos\CarFactory\Factories\bin\Debug\Common.pdb
-C:\Users\Robert.KRS\Source\repos\CarFactory\Factories\obj\Debug\Factories.csprojResolveAssemblyReference.cache
-C:\Users\Robert.KRS\Source\repos\CarFactory\Factories\obj\Debug\Factories.csproj.CoreCompileInputs.cache
-C:\Users\Robert.KRS\Source\repos\CarFactory\Factories\obj\Debug\Factories.exe
-C:\Users\Robert.KRS\Source\repos\CarFactory\Factories\obj\Debug\Factories.pdb
