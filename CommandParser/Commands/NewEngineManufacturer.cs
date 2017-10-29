@@ -2,7 +2,7 @@
 
 namespace CommandParser.Commands
 {
-    public class NewEngineManufacturer : Page
+    internal class NewEngineManufacturer : Page
     {
         public NewEngineManufacturer(Program program)
             : base("NewEngineManufacturer", program)

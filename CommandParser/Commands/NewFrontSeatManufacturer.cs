@@ -7,10 +7,11 @@ using EasyConsole;
 
 namespace CommandParser.Commands
 {
-    internal class NewBrakeManufacturer : Page
+    internal class NewFrontSeatManufacturer : Page
     {
-        public NewBrakeManufacturer(Program program)
-            : base("NewBrakeManufacturer", program)
+
+        public NewFrontSeatManufacturer(Program program)
+            :base("NewFrontSeatManufacturer", program)
         {
             
         }
@@ -18,10 +19,12 @@ namespace CommandParser.Commands
         public override void Display()
         {
             base.Display();
-            Output.WriteLine("new Brake manufacturer created");
+
+            Output.WriteLine("new FrontSeat manufacturer created");
 
             Input.ReadString(Globals.MAIN_MENU_PROMPT);
             Program.NavigateHome();
         }
+
     }
 }

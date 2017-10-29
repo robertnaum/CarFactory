@@ -48,6 +48,7 @@
     <Compile Include="CommandParser.cs" />
     <Compile Include="Commands\NewAssemblyPlant.cs" />
     <Compile Include="Commands\NewBrakeManufacturer.cs" />
+    <Compile Include="Commands\NewFrontSeatManufacturer.cs" />
     <Compile Include="Globals.cs" />
     <Compile Include="Menus\AssemblyPlantMenu.cs" />
     <Compile Include="Menus\MainMenu.cs" />
@@ -60,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="app.secrets.config" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>

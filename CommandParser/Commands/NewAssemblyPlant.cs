@@ -7,7 +7,7 @@ using EasyConsole;
 
 namespace CommandParser.Commands
 {
-    public class NewAssemblyPlant : Page
+    internal class NewAssemblyPlant : Page
     {
         public NewAssemblyPlant(Program program)
             : base("New Assembly Plant", program)
