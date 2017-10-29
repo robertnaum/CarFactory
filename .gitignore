@@ -3,3 +3,5 @@
 ################################################################################
 
 /CommandParser/app.secrets.config
+/CommandParser/bin/Debug/*.*
+/CommandParser/obj/Debug/*.*
