@@ -47,10 +47,14 @@
   <ItemGroup>
     <Compile Include="CommandParser.cs" />
     <Compile Include="Commands\NewAssemblyPlant.cs" />
-    <Compile Include="Commands\NewCarManufacturer.cs" />
+    <Compile Include="Commands\NewBrakeManufacturer.cs" />
+    <Compile Include="Globals.cs" />
     <Compile Include="Menus\AssemblyPlantMenu.cs" />
     <Compile Include="Menus\MainMenu.cs" />
     <Compile Include="Menus\ManufacturerMenu.cs" />
+    <Compile Include="Commands\NewCarBodyManufacturer.cs" />
+    <Compile Include="Commands\NewEngineManufacturer.cs" />
+    <Compile Include="Commands\NewTireManufacturer.cs" />
     <Compile Include="Runner.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

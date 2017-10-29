@@ -15,7 +15,7 @@ namespace CommandParser
         {
             AddPage(new MainMenu(this));
             AddPage(new ManufacturerMenu(this));
-            AddPage(new NewCarManufacturer(this));
+            AddPage(new NewBrakeManufacturer(this));
             AddPage(new AssemblyPlantMenu(this));
             AddPage(new NewAssemblyPlant(this));
 

@@ -10,9 +10,14 @@ namespace CommandParser.Menus
 {
     class ManufacturerMenu : MenuPage
     {
-        public ManufacturerMenu(Program program) 
+        public ManufacturerMenu(Program program)
             : base("Manufacturer Menu", program,
-                  new Option("New car manufacturer", () => program.NavigateTo<NewCarManufacturer>()))
+                new Option("New CarBody manufacturer", () => program.NavigateTo<NewCarBodyManufacturer>()),
+                new Option("New Engine manufacturer", () => program.NavigateTo<NewEngineManufacturer>()),
+                new Option("New Brake manufacturer", () => program.NavigateTo<NewBrakeManufacturer>()),
+                new Option("New Tire Manufacturer", () => program.NavigateTo<NewTireManufacturer>())
+
+                  )
         {
             
         }
