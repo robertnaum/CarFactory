@@ -1,6 +1,5 @@
 C:\Users\Robert.KRS\Source\repos\CarFactory\Common\bin\Debug\Common.dll
 C:\Users\Robert.KRS\Source\repos\CarFactory\Common\bin\Debug\Common.pdb
-C:\Users\Robert.KRS\Source\repos\CarFactory\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
 C:\Users\Robert.KRS\Source\repos\CarFactory\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
 C:\Users\Robert.KRS\Source\repos\CarFactory\Common\obj\Debug\Common.dll
 C:\Users\Robert.KRS\Source\repos\CarFactory\Common\obj\Debug\Common.pdb

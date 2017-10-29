@@ -7,7 +7,7 @@ using EasyConsole;
 
 namespace CommandParser.Commands
 {
-    internal class NewBrakeManufacturer : Page
+    public class NewBrakeManufacturer : Page
     {
         public NewBrakeManufacturer(Program program)
             : base("NewBrakeManufacturer", program)

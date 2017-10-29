@@ -1,8 +1,8 @@
 ﻿using EasyConsole;
 
-namespace CommandParser.Menus
+namespace CommandParser.Commands
 {
-    internal class NewEngineManufacturer : Page
+    public class NewEngineManufacturer : Page
     {
         public NewEngineManufacturer(Program program)
             : base("NewEngineManufacturer", program)

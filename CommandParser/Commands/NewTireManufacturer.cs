@@ -1,6 +1,6 @@
 ﻿using EasyConsole;
 
-namespace CommandParser.Menus
+namespace CommandParser.Commands
 {
     internal class NewTireManufacturer : Page
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using CommandParser.Commands;
-using CommandParser.Menus;
+using CommandParser.Commands;
 using EasyConsole;
 
 namespace CommandParser

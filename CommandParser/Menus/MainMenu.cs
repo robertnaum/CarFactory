@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using EasyConsole;
 
-namespace CommandParser.Menus
+namespace CommandParser.Commands
 {
     class MainMenu : MenuPage
     {

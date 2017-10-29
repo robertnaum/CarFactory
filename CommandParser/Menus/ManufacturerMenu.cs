@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using CommandParser.Commands;
 using EasyConsole;
 
-namespace CommandParser.Menus
+namespace CommandParser.Commands
 {
     class ManufacturerMenu : MenuPage
     {
