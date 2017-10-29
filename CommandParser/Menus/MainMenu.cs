@@ -1,11 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+//using CommandParser.Commands;
 using EasyConsole;
 
-namespace CommandParser.Commands
+namespace CommandParser.Menus
 {
     class MainMenu : MenuPage
     {

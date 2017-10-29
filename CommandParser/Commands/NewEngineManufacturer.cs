@@ -14,6 +14,8 @@ namespace CommandParser.Commands
             base.Display();
 
             Output.WriteLine("new Engine manufacturer created");
+
+            Input.ReadString(Globals.MAIN_MENU_PROMPT);
             Program.NavigateHome();
         }
     }
