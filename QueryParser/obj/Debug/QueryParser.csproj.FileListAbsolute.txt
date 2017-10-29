@@ -1,0 +1,10 @@
+C:\Users\Robert.KRS\Source\repos\CarFactory\QueryParser\bin\Debug\QueryParser.exe.config
+C:\Users\Robert.KRS\Source\repos\CarFactory\QueryParser\bin\Debug\QueryParser.exe
+C:\Users\Robert.KRS\Source\repos\CarFactory\QueryParser\bin\Debug\QueryParser.pdb
+C:\Users\Robert.KRS\Source\repos\CarFactory\QueryParser\bin\Debug\Common.dll
+C:\Users\Robert.KRS\Source\repos\CarFactory\QueryParser\bin\Debug\EasyConsole.dll
+C:\Users\Robert.KRS\Source\repos\CarFactory\QueryParser\bin\Debug\Common.pdb
+C:\Users\Robert.KRS\Source\repos\CarFactory\QueryParser\obj\Debug\QueryParser.csprojResolveAssemblyReference.cache
+C:\Users\Robert.KRS\Source\repos\CarFactory\QueryParser\obj\Debug\QueryParser.csproj.CoreCompileInputs.cache
+C:\Users\Robert.KRS\Source\repos\CarFactory\QueryParser\obj\Debug\QueryParser.exe
+C:\Users\Robert.KRS\Source\repos\CarFactory\QueryParser\obj\Debug\QueryParser.pdb

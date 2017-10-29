@@ -4,11 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Common
+namespace Common.CarParts
 {
-    public abstract class Manufacturer
+    public class FrontConsole : ICarPart
     {
-
-
     }
 }

@@ -42,9 +42,25 @@
   <ItemGroup>
     <Compile Include="AssemblyPlant.cs" />
     <Compile Include="Car.cs" />
+    <Compile Include="CarParts\RearHeadlight.cs" />
+    <Compile Include="CarParts\RearWindshield.cs" />
+    <Compile Include="CarParts\Brake.cs" />
+    <Compile Include="CarParts\CarBody.cs" />
+    <Compile Include="CarParts\CarDoor.cs" />
+    <Compile Include="CarParts\CarPartsEnum.cs" />
+    <Compile Include="CarParts\Engine.cs" />
+    <Compile Include="CarParts\FrontConsole.cs" />
+    <Compile Include="CarParts\FrontHeadlight.cs" />
+    <Compile Include="CarParts\FrontSeat.cs" />
+    <Compile Include="CarParts\FrontWindshield.cs" />
+    <Compile Include="CarParts\RearSeatGroup.cs" />
+    <Compile Include="CarParts\SideMirror.cs" />
+    <Compile Include="CarParts\Tire.cs" />
+    <Compile Include="CarParts\Transmission.cs" />
     <Compile Include="DrivenWheelsEnum.cs" />
     <Compile Include="EngineEnum.cs" />
-    <Compile Include="Manufacturer.cs" />
+    <Compile Include="CarParts\ICarPart.cs" />
+    <Compile Include="Manufacturers\Manufacturer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TransmissionEnum.cs" />
   </ItemGroup>

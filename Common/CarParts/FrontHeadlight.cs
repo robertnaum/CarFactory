@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CommandParser
+namespace Common.CarParts
 {
-    class Program
+    public class FrontHeadlight : ICarPart
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }

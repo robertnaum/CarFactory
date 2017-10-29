@@ -1,0 +1,10 @@
+C:\Users\Robert.KRS\Source\repos\CarFactory\CommandParser\obj\Debug\CommandParser.csprojResolveAssemblyReference.cache
+C:\Users\Robert.KRS\Source\repos\CarFactory\CommandParser\obj\Debug\CommandParser.csproj.CoreCompileInputs.cache
+C:\Users\Robert.KRS\Source\repos\CarFactory\CommandParser\bin\Debug\CommandParser.exe.config
+C:\Users\Robert.KRS\Source\repos\CarFactory\CommandParser\bin\Debug\CommandParser.exe
+C:\Users\Robert.KRS\Source\repos\CarFactory\CommandParser\bin\Debug\CommandParser.pdb
+C:\Users\Robert.KRS\Source\repos\CarFactory\CommandParser\bin\Debug\Common.dll
+C:\Users\Robert.KRS\Source\repos\CarFactory\CommandParser\bin\Debug\EasyConsole.dll
+C:\Users\Robert.KRS\Source\repos\CarFactory\CommandParser\bin\Debug\Common.pdb
+C:\Users\Robert.KRS\Source\repos\CarFactory\CommandParser\obj\Debug\CommandParser.exe
+C:\Users\Robert.KRS\Source\repos\CarFactory\CommandParser\obj\Debug\CommandParser.pdb
