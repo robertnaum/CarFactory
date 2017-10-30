@@ -16,8 +16,9 @@
 	d. Install Engine
 	e. Install Windows/Windshields
 	f. Install Seats
-	g. Install Car Wheels
-	h. Testing
+	g. Install Doors
+	h. Install Car Wheels
+	i. Testing
 		1. Alignment
 		2. Headlight
 		3. Engine
