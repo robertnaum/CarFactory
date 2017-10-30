@@ -61,8 +61,13 @@
     <Compile Include="EngineEnum.cs" />
     <Compile Include="CarParts\ICarPart.cs" />
     <Compile Include="Manufacturers\Manufacturer.cs" />
+    <Compile Include="Processes\ChassisProduction.cs" />
+    <Compile Include="Processes\ManufacturingProcess.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TransmissionEnum.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Processes\README.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
